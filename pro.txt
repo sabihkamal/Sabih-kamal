@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+
+<marquee loop="1"><h1>Welcome To Iqra University</h1></marquee>
+<marquee behavior="alternate">Khush Aamdeed</marquee>
+<marquee direction="up">Oper chalo</marquee>
+<marquee direction="down">nae nae nichy chalo</marquee>
+<marquee direction="right">side pe :P</marquee>
+<marquee onmouseover="this.stop()" onmouseout="this.start()"> ruk b.c</marquee>
+
+<dl>
+    <dt>cofee</dt>
+    <dt>coldrink</dt>
+    <dt>banana shake</dt>
+    <dt>ganny ka ras</dt>
+    <dt>mango shake</dt>
+    <dt>pineapple juice</dt>
+    <dt><h1>Special Offer</h1></dt>
+    <dd>Cheeku K Sath Banana Free</dd>
+    <dd>banany k sath cheeku free</dd>
+</dl>
+<ul>
+    <ol>
+    <li>Home</li>
+    <li>profile</li>
+    <li>logout</li>
+        </ol>
+    <p>switch Off <mark>Cell PHones</mark></p>
+    <p>Price<del>1700</del></p>
+    <p>New Price Are<h1>1650</h1></p>
+</ul>
+<p>today is 28<sub>november</sub></p>
+<p>Your Grade A<sup>+</sup></p>
+<center>Click Here</center>
+<side>kona</side>
+<center><font color="#8b0000">Amir :D</font></center>
+<side><font color="#7fff00">Saleem</font></side>
+<left><font size="12">yo man</font></left>
+<img src="image/tiger.jpg" width="150" height="100">
+<table width="100%" border="15"
+<tr>
+   <td colspan="4"><center>panch ka pahara</center></td>
+</tr>
+<tr>
+           <td>col 1</td>
+           <td>col 2</td>
+           <td>col 3</td>
+           <td>col 4</td>
+       </tr>
+<tr>
+    <td>col 1</td>
+    <td>col 2</td>
+    <td>col 3</td>
+    <td>col 4</td>
+</tr>
+<tr>
+    <td>col 1</td>
+    <td>col 2</td>
+    <td>col 3</td>
+    <td>col 4</td>
+</tr>
+<tr>
+    <td>col 1</td>
+    <td>col 2</td>
+    <td>col 3</td>
+    <td>col 4</td>
+</tr>
+
+</body>
+</html>
