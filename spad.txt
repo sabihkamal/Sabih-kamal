@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta http-equiv="refresh" content="10">
+    <link rel="icon" type="image/img" href="favicon.ico">
+
+</head>
+<body>
+<a href="about.html">About us</a>
+<nav>
+    <a href="about.html">Index</a>
+    <a href="about.html">About us</a>
+    <a href="about.html">POrtfolio</a>
+    <a href="about.html">services</a>
+    <a href="about.html">contact us</a>
+    <a href="about.html">More</a>
+
+
+</nav>
+<footer>
+    &copy; All Rgiht Reserved 2013
+    &reg;
+    &pound;
+
+
+</footer>
+<select>
+    <option value="bmw">BMW</option>
+    <option value="bmw">Toyota</option>
+    <option value="bmw">Ferrari</option>
+    <input list="browser" name="browse">
+    <datalist id="browser">
+        <option value="google"></option>
+        <option value="facebook"></option>
+    </datalist>
+    <progress value="85" max="100"></progress>
+
+</select>
+</body>
+</html>
